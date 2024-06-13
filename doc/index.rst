@@ -1,5 +1,5 @@
 =======
-Welcome
+Welcome!
 =======
 
 .. epigraph:: Sphinx makes it easy to create intelligent and beautiful documentation.
